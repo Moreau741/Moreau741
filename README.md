@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there 👋, I'm Zeee
 
-<!--
-**63zee/63zee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!  
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🔹 Passionate about networking and system administration  
+- 🔹 Based in **Netherlands**  
+- 🔹 Available for **system administration tasks**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- [simple-gre-tunnel](https://github.com/63zee/simple-gre-tunnel) - A simple GRE Tunnel setup without firewall rules  
+
+## 📫 Contact
+- 🌍 GitHub: [63zee](https://github.com/63zee)  
+- 🎮 Discord: **geenideebroer**  
+
+Thanks for stopping by! 😊
