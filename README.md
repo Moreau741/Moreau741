@@ -12,6 +12,6 @@ Welcome to my GitHub profile!
 
 ## 📫 Contact
 - 🌍 GitHub: [63zee](https://github.com/63zee)  
-- 🎮 Discord: **geenideebroer**  
+- 🎮 Discord: **geenideeagoya**  
 
 Thanks for stopping by! 😊
