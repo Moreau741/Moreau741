@@ -1,17 +1,33 @@
-# Hi there 👋, I'm Zeee
+# Zeee
 
-Welcome to my GitHub profile!  
+**System Administrator. Network Architect. Silent Operator.**
 
-## 🚀 About Me
-- 🔹 Passionate about networking and system administration  
-- 🔹 Based in **Netherlands**  
-- 🔹 Available for **system administration tasks**  
+---
 
-## 📂 Projects
-- [simple-gre-tunnel](https://github.com/63zee/simple-gre-tunnel) - A simple GRE Tunnel setup without firewall rules  
+## About Me
 
-## 📫 Contact
-- 🌍 GitHub: [63zee](https://github.com/63zee)  
-- 🎮 Discord: **geenideeagoya**  
+I don't need to introduce myself.  
+You either get it, or you don't.
 
-Thanks for stopping by! 😊
+- **Location**: Netherlands  
+- **Specialty**: Networking, Systems, Security.  
+- **Focus**: Keeping things running. Undetected. Unnoticed.
+
+---
+
+## Projects
+
+### [simple-gre-tunnel](https://github.com/63zee/simple-gre-tunnel)  
+A simple GRE tunnel. No rules. No overcomplications. Just raw connectivity.
+
+---
+
+## Contact
+
+- **GitHub**: [63zee](https://github.com/63zee)  
+- **Discord**: geenideeagoya  
+
+---
+
+Don't waste my time.
+``
