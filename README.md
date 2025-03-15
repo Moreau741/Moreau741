@@ -14,11 +14,13 @@ You either get it, or you don't.
 - **Focus**: Keeping things running. Undetected. Unnoticed.
 
 ---
-
-## Projects
+# Projects
 
 ### [simple-gre-tunnel](https://github.com/63zee/simple-gre-tunnel)  
 A simple GRE tunnel. No rules. No overcomplications. Just raw connectivity.
+
+### [ubuntu-shellscripts](https://github.com/yourusername/ubuntu-shellscripts)  
+Shell scripts (Ubuntu 22.04) that I created quickly for my projects.
 
 ---
 
