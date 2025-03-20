@@ -12,6 +12,8 @@ You either get it, or you don't.
 - **Location**: Netherlands  
 - **Specialty**: Networking, Systems, Security.  
 - **Focus**: Keeping things running. Undetected. Unnoticed.
+- **Mindset**: Precision over noise. Stability over hype. Efficiency over excess.
+- **Philosophy**: If you notice me, I’m not doing it right.
 
 ---
 # Projects
