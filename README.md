@@ -1,43 +1,42 @@
-# Zeee
+# Zeee  
 
-**System Administrator. Network Architect. Silent Operator.**
+**System Administrator. Network Architect. Silent Operator.**  
 
 ---
 
-## About Me
+## About Me  
 
 I don't need to introduce myself.  
-You either get it, or you don't.
+You either get it, or you don't.  
 
-- **Location**: Netherlands  
-- **Specialty**: Networking, Systems, Security.  
-- **Focus**: Keeping things running. Undetected. Unnoticed.
-- **Mindset**: Precision over noise. Stability over hype. Efficiency over excess.
-- **Philosophy**: If you notice me, I’m not doing it right.
+- **Location**: Somewhere between the cloud and the bare metal.
+- **Specialty**: Infrastructure, Automation, Security.
+- **Focus**: Keeping systems online. Optimized. Hardened.
+- **Mindset**: Performance over clutter. Control over chaos. Function over form.
+- **Philosophy**: If it breaks, I already fixed it.
 
 ---
-# Projects
+
+## Projects  
 
 ### [simple-gre-tunnel](https://github.com/63zee/simple-gre-tunnel)  
-A simple GRE tunnel. No rules. No overcomplications. Just raw connectivity.
+A minimal GRE tunnel. No rules. No overcomplications. Just raw connectivity.  
 
 ### [ubuntu-shellscripts](https://github.com/63zee/ubuntu-shellscripts)  
-Shell scripts (Ubuntu 22.04) that I created quickly for my projects.
+Quick-and-dirty shell scripts for Ubuntu 22.04. Built for efficiency, not aesthetics.  
 
 ### [easyBackup](https://github.com/63zee/easyBackup)  
-This script automates the process of creating backups with Restic, cleaning up old backups and uploading backups to the cloud with Rclone. It also sends email notifications to track progress and receive error messages. Ideal for managing regular backups and keeping clean storage.
-**(The script and readme of the script is unfortunately in Dutch though, sorry :p)**
-
-
+Automates backups with Restic, cleans old backups, uploads to the cloud via Rclone, and sends email notifications.  
+Ideal for hands-off, reliable backups.  
+**(README is in Dutch, deal with it. :p)**  
 
 ---
 
-## Contact
+## Contact  
 
 - **GitHub**: [63zee](https://github.com/63zee)  
 - **Discord**: geenideeagoya  
 
 ---
 
-Don't waste my time.
-``
+Don't waste my time.  
