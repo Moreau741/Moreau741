@@ -28,7 +28,7 @@ Quick-and-dirty shell scripts for Ubuntu 22.04. Built for efficiency, not aesthe
 ### [easyBackup](https://github.com/63zee/easyBackup)  
 Automates backups with Restic, cleans old backups, uploads to the cloud via Rclone, and sends email notifications.  
 Ideal for hands-off, reliable backups.  
-**(README is in Dutch, deal with it. :p)**  
+**(Script & readme is in Dutch, deal with it (im sorry) :p)**  
 
 ---
 
