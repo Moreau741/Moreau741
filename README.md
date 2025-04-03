@@ -34,8 +34,7 @@ Ideal for hands-off, reliable backups.
 
 ## Contact  
 
-- **GitHub**: [63zee](https://github.com/63zee)  
-- **Discord**: geenideeagoya  
+- **NONE**.
 
 ---
 
