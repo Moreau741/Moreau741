@@ -1,9 +1,7 @@
----
+### Hi, I'm building and securing infrastructure (System Administrator)
 
-Just trying to make things work :).
-Building and securing infrastructure
+I focus on reliability, security, and clean deployment — mostly using Linux, Windows, Proxmox, automation tools, and more.
 
-I mainly use GitHub just for Git
+I mostly use GitHub just for Git — personal and private projects.
 
-
-Thanks :)
+Always trying to improve :)
